@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is for the Careerfoundry web development course. It covers Git, Github and version control
 
 Things you may want to cover:
 
